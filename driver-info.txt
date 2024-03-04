@@ -1,0 +1,2 @@
+This is a test .txt file for the purpose of learning how to handle issues with GitGub.
+Now I am updating some of the text in the file.
