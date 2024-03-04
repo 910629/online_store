@@ -43,6 +43,8 @@ These instructions will help you set up and view the online shop locally on your
 
 This project is currently unlicensed.
 
+Repository Link: [Online_Store](https://github.com/910629/online_store)
+
 ## Acknowledgments
 
 - [Bootstrap](https://getbootstrap.com/) - Front-end framework used.
